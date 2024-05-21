@@ -19,7 +19,7 @@
             It is always a good time to say "Hello"! 👋🏽🙂        </p>
         
 
-        @ https://pavanmohann.github.io/)
+        https://pavanmohann.github.io/
 
 </body>
 </html>
