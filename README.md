@@ -7,29 +7,38 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f5f5f5;
+            line-height: 1.6;
             margin: 0;
             padding: 0;
+            background-color: #f4f4f4;
         }
         .container {
             max-width: 800px;
-            margin: 0 auto;
+            margin: auto;
             padding: 20px;
-            background-color: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            background: #fff;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         h1 {
+            text-align: center;
             color: #333;
         }
+        p {
+            text-align: justify;
+            margin-bottom: 15px;
+            color: #555;
+        }
         .contact-icons {
-            display: flex;
-            align-items: center;
-            gap: 10px;
+            text-align: center;
             margin-top: 20px;
         }
+        .contact-icons a {
+            margin: 0 10px;
+            display: inline-block;
+        }
         .contact-icons img {
-            height: 24px;
+            width: 40px;
+            height: 40px;
         }
     </style>
 </head>
