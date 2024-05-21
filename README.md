@@ -1,7 +1,6 @@
 ## Hi there 👋 Introducing myself... Pavan Mohan Neelamraju...
 
-<!--
-**I am currently pursuing my master's degree in the Inter-disciplinary Research Program at the Indian Institute of Technology - Madras. My passion lies in the realm of decision sciences and its remarkable potential for data-based learning.
+I am currently pursuing my master's degree in the Inter-disciplinary Research Program at the Indian Institute of Technology - Madras. My passion lies in the realm of decision sciences and its remarkable potential for data-based learning.
 
 Within this fascinating field, I specialize in applied Machine Learning and Deep Learning Techniques, dedicated to unlocking the insights and possibilities hidden within the data. My primary focus revolves around utilizing the data for effective decision-making.
 
@@ -16,4 +15,3 @@ It is always a good time to say "Hello"!!👋🏽🙂📩
 - 💬 Actively looking for research collaboration!
 - 📫 Reach me out @ npavanmohan3@gmail.com
 - ⚡ Get to know more: [pavanmohann.github.io](https://pavanmohann.github.io/)
--->
