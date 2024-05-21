@@ -16,11 +16,11 @@
             As you navigate my website, you will discover my endeavors in the realm of decision sciences and information processing, which I have undertaken. Join me on this exciting exploration, as I am currently looking forward to collaborating.
         </p>
         <p>
-            It is always a good time to say "Hello"! 👋🏽🙂
+            It is always a good time to say "Hello"! 👋🏽🙂        </p>
         
 
         🔴🔵 Get in touch @ [pavanmohann.github.io](https://pavanmohann.github.io/)
 
-        </p>
+
 </body>
 </html>
