@@ -37,8 +37,8 @@
             display: inline-block;
         }
         .contact-icons img {
-            width: 40px;
-            height: 40px;
+            width: 24px;
+            height: 24px;
         }
     </style>
 </head>
