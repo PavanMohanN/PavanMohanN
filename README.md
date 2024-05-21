@@ -19,8 +19,7 @@
             It is always a good time to say "Hello"! 👋🏽🙂        </p>
         
 
-        🔴🔵 Get in touch @ [pavanmohann.github.io](https://pavanmohann.github.io/)
-
+        @ https://pavanmohann.github.io/)
 
 </body>
 </html>
