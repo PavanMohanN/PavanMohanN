@@ -19,7 +19,7 @@
             It is always a good time to say "Hello"! 👋🏽🙂        </p>
         
 
-        [https://pavanmohan.netlify.app/](https://pavanmohan.netlify.app/)
+        https://pavanmohan.netlify.app/
 
 </body>
 </html>
