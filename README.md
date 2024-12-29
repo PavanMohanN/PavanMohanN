@@ -1,5 +1,4 @@
-![1721808941342](https://github.com/user-attachments/assets/edbe0a73-b5df-49a5-a8c3-d72ac6e2e00b)
-
+![1080x360](https://github.com/user-attachments/assets/ecf7c5c8-a1ce-4093-bada-c14f406d072c)
 
 # About me...
 
