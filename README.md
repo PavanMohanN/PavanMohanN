@@ -1,4 +1,4 @@
-![1080x360](https://github.com/user-attachments/assets/ecf7c5c8-a1ce-4093-bada-c14f406d072c)
+![image](https://github.com/user-attachments/assets/f519a0a4-1d1f-47b8-b59f-25bd20d9bd63)
 
 # About me...
 
