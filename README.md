@@ -1,4 +1,7 @@
-# Pavan Mohan Neelamraju - Decision Sciences & Machine Learning
+![1721808941342](https://github.com/user-attachments/assets/edbe0a73-b5df-49a5-a8c3-d72ac6e2e00b)
+
+
+# About me...
 
 I am currently pursuing my Master's degree in the **Inter-disciplinary Research Program** at the **Indian Institute of Technology (IIT) - Madras**. My research focuses on **Decision Sciences**, with an emphasis on **Machine Learning** and **Deep Learning Techniques** for data-based learning and decision-making.
 
@@ -15,13 +18,6 @@ I am currently pursuing my Master's degree in the **Inter-disciplinary Research 
 - [Academia](https://iim.academia.edu/PavanMohanNeelamraju)
 - [ORCID](https://orcid.org/0000-0001-9626-6556)
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true)
-
-## Projects
-Explore my work in **Machine Learning** and **Decision Sciences**:
-- [Project 1](https://github.com/yourusername/project1) - Description of the project.
-- [Project 2](https://github.com/yourusername/project2) - Description of the project.
 
 ## Collaborations
 Feel free to reach out for collaborations or knowledge exchange.
