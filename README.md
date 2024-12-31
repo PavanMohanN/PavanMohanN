@@ -1,5 +1,4 @@
-![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/ab4b6c76-7a33-496d-9387-c7db1f6af4e0)
-
+![1721808941342](https://github.com/user-attachments/assets/f587cfc1-f6bc-4374-adfe-6d3ad687473f)
 
 # Pavan Mohan Neelamraju
 
