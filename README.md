@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f519a0a4-1d1f-47b8-b59f-25bd20d9bd63)
-
 ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/ab4b6c76-7a33-496d-9387-c7db1f6af4e0)
 
 
