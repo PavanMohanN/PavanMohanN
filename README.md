@@ -2,6 +2,9 @@
 
 # Pavan Mohan Neelamraju
 
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/88c1e68e-424f-40e6-8e1c-0b5113c26fdc" />
+
+
 I am currently pursuing my Master's degree in the **Inter-disciplinary Research Program** at the **Indian Institute of Technology (IIT) - Madras**. My research focuses on **Decision Sciences**, with an emphasis on **Machine Learning** and **Deep Learning Techniques** for data-based learning and decision-making.
 
 ## Research Focus
