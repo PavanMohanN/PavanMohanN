@@ -2,12 +2,7 @@
 
 # Pavan Mohan Neelamraju
 
-I am currently pursuing my Master's degree in the **Inter-disciplinary Research Program** at the **Indian Institute of Technology (IIT) - Madras**. My research focuses on **Decision Sciences**, with an emphasis on **Machine Learning** and **Deep Learning Techniques** for data-based learning and decision-making.
-
-## Research Focus
-- **Machine Learning & Deep Learning**: Applied techniques for predictive modeling and decision support.
-- **Decision Sciences**: Optimizing decision-making using data.
-- **Information Processing**: Techniques for processing complex datasets.
+I am currently pursuing my doctoral degree at the **Wolfson School of Mechanical, Electrical and Manufacturing Engineering, Loughborough University, United Kingdom**. My research focuses on **Machine Learning**, with an emphasis on **Signal Processing**, **Applied Electromagnetics** and **Image Analysis** for data-based learning and decision-making.
 
 ## Let's Connect!
 <p align="center">
