@@ -2,7 +2,11 @@
 
 # Pavan Mohan Neelamraju
 
-I am currently pursuing my doctoral degree at the **Wolfson School of Mechanical, Electrical and Manufacturing Engineering, Loughborough University, United Kingdom**. My research focuses on **Machine Learning**, with an emphasis on **Signal Processing**, **Applied Electromagnetics** and **Image Analysis** for data-based learning and decision-making.
+I am an applied machine learning researcher working on inverse, constrained, and physics-consistent learning for wave-driven and complex engineered systems. My research focuses on integrating physical structure, signal representations, and domain constraints into machine learning models to improve robustness, interpretability, and data efficiency.
+
+I am currently pursuing a PhD in Electronic, Electrical and Systems Engineering at Loughborough University (UK). My doctoral work explores learning-enabled modeling and control of reconfigurable wave-based systems for next-generation communication and sensing, while my broader research agenda addresses inverse learning and physically grounded machine intelligence across multiple application domains.
+
+My interests span applied ML, signal processing, inverse problems, and wave-based systems, with applications including communications, sensing, seismic modeling, and imaging. I am particularly interested in research that bridges theory, systems, and deployment.
 
 ## Let's Connect!
 <p align="center">
